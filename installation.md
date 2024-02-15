@@ -1,6 +1,9 @@
 **Installation Guide for TWS API Library**
 
-Step 1: Keep Tws Api Folder and Setup.sh in a Same Folder 
+Step 1: Download TWS Api and keep TWS Api and Setup.sh in a same folder 
+	```link
+		https://interactivebrokers.github.io/#
+	```
 
 Step 2: Activate the Shell Script
 - Open terminal inside newly created folder
