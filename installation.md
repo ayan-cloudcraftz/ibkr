@@ -22,4 +22,6 @@ Step 3: Modify Library:
 		return possibles
 	```
 	
-Step 4: Restart the Kernel and you're good to go
+Step 4: Restart the Kernel
+
+Step 5: Put getMarketData.ipynb and main.ipynb file inside pythonclient folder
