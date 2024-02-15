@@ -15,7 +15,7 @@ Step 2: Activate the Shell Script
 	
 Step 3: Modify Library:
 - Move to the path twsapi_macunix.1019.02 -> IBJts -> source -> pythonclient 
--> tws_env -> lib -> python3.8 -> site-packages -> ib_insync -> ib.py
+	-> tws_env -> lib -> python3.8 -> site-packages -> ib_insync -> ib.py
 - Open ib.py and serach for qualifyContractsAsync function
 - Add this code after line no. 1805
 	```py
